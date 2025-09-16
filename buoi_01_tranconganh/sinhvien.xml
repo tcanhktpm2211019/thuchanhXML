@@ -1,0 +1,30 @@
+<class>
+    <student>
+        <name>Trần Công Anh</name>
+        <id>KTPM2211019</id>
+        <subjects>
+            <subject>
+                <subject_name>Lập trình cơ bản</subject_name>
+                <score>10</score>
+            </subject>
+            <subject>
+                <subject_name>Học máy nhập môn</subject_name>
+                <score>9</score>
+            </subject>
+        </subjects>
+    </student>
+    <student>
+        <name>Nguyễn Thịnh Khang</name>
+        <id>KTPM2211074</id>
+        <subjects>
+            <subject>
+                <subject_name>Lập trình cơ bản</subject_name>
+                <score>8</score>
+            </subject>
+            <subject>
+                <subject_name>Học máy nhập môn</subject_name>
+                <score>7</score>
+            </subject>
+        </subjects>
+    </student>
+</class>

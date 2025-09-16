@@ -1,0 +1,5 @@
+<products>
+    <product id = "P001" category = "Điện tử" price = "150000" currency = "VNĐ"/>
+    <product id = "P002" category = "Thời trang" price = "300" currency = "USD"/>
+    <product id = "P003" category = "Gia dụng" price = "5000000" currency = "VNĐ"/>
+</products>
