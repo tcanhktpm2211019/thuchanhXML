@@ -11,6 +11,7 @@
             <specialty>Nội khoa</specialty>
         </doctor>
     </appointment>
+    
 
     <appointment id="A002" date="2025-03-10" status="Chưa khám">
         <patient id="P002">

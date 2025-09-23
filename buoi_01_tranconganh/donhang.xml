@@ -9,6 +9,7 @@
             <name>Laptop Acer</name>
         </item>
     </order>
+    
 
     <order id="O002" customer="Trần Thị B" date="2025-03-05">
         <item id="P003" quantity="3" price="200">

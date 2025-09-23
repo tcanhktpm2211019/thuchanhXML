@@ -1,12 +1,18 @@
-<!ELEMENT products (product+)>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE products SYSTEM "products.dtd">
+<products>
+    <product id="P001" category="Điện tử" price="150000" currency="VNĐ">
+        <name>Điện thoại Xiaomi</name>
+        <description>Điện thoại giá rẻ, cấu hình tốt</description>
+    </product>
 
-<!ELEMENT product (name, description)>
-<!ATTLIST product
-    id ID #REQUIRED
-    category CDATA #REQUIRED
-    price CDATA #REQUIRED
-    currency CDATA #REQUIRED
->
+    <product id="P002" category="Thời trang" price="300" currency="USD">
+        <name>Áo sơ mi nam</name>
+        <description>Áo sơ mi cotton cao cấp</description>
+    </product>
 
-<!ELEMENT name (#PCDATA)>
-<!ELEMENT description (#PCDATA)>
+    <product id="P003" category="Gia dụng" price="5000000" currency="VNĐ">
+        <name>Tủ lạnh Toshiba</name>
+        <description>Tủ lạnh 2 cánh dung tích 350L</description>
+    </product>
+</products>

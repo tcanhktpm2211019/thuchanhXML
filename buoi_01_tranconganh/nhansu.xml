@@ -18,6 +18,7 @@
             <position>Lập trình viên</position>
         </employee>
     </department>
+    
 
     <department name="Kinh doanh">
         <employee id="E004">
