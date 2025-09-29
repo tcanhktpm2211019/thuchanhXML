@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="students.xsd">
+
+    <student id="SV01" email="sv01@example.com">
+        <name>Nguyễn Thị Thanh Thủy</name>
+        <date>1997-12-20</date>
+    </student>
+
+    <student id="SV02" email="sv02@example.com">
+        <name>Lê Thị Hồng Cẩm</name>
+        <date>1998-01-21</date>
+    </student>
+
+    <student id="SV03" email="sv03@example.com">
+        <name>Trần Văn An</name>
+        <date>1997-11-11</date>
+    </student>
+
+</school>

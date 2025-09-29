@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="library.xsd">
+    xsi:noNamespaceSchemaLocation="book.xsd">
 
     <book id="LN001">
         <title>Oregairu - Yahari Ore no Seishun Love Comedy wa Machigatteiru</title>
