@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="dssv.xsd">
+
+    <student id="SV001">
+        <name>Trần Công Anh</name>
+        <dob>2004-06-01</dob>
+        <major>Công nghệ thông tin</major>
+    </student>
+
+    <student id="SV002">
+        <name>Nguyễn Thịnh Khang</name>
+        <dob>2000-01-01</dob>
+        <major>Công nghệ thông tin</major>
+    </student>
+
+</students>
