@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSSV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="DSSV.xsd">
+
+    <!-- Danh sách Khoa -->
+    <KHOA>
+        <MA>CNTT000001</MA>
+        <TEN>congnghetthongtin</TEN>
+    </KHOA>
+    <KHOA>
+        <MA>KTOAN00001</MA>
+        <TEN>ketoan</TEN>
+    </KHOA>
+    <KHOA>
+        <MA>QTKD000001</MA>
+        <TEN>quantrikinh</TEN>
+    </KHOA>
+
+    <!-- Danh sách Lớp -->
+    <LOP>
+        <MA>CNTT01A001</MA>
+        <TEN>Cong nghe thong tin 01A</TEN>
+        <MAKHOA>CNTT000001</MAKHOA>
+    </LOP>
+    <LOP>
+        <MA>CNTT02B001</MA>
+        <TEN>Cong nghe thong tin 02B</TEN>
+        <MAKHOA>CNTT000001</MAKHOA>
+    </LOP>
+    <LOP>
+        <MA>KT01A00001</MA>
+        <TEN>Ke toan 01A</TEN>
+        <MAKHOA>KTOAN00001</MAKHOA>
+    </LOP>
+
+    <!-- Danh sách Sinh viên -->
+    <SINHVIEN>
+        <MSSV>2021600001</MSSV>
+        <HOTEN>Nguyen Van An</HOTEN>
+        <EMAIL>nguyenvanan@gmail.com</EMAIL>
+        <DIACHI>123 Nguyen Trai, Quan 1, TP.HCM</DIACHI>
+        <SDT>0901234567</SDT>
+        <MALOP>CNTT01A001</MALOP>
+    </SINHVIEN>
+    <SINHVIEN>
+        <MSSV>2021600002</MSSV>
+        <HOTEN>Tran Thi Binh</HOTEN>
+        <EMAIL>tranthib@gmail.com</EMAIL>
+        <DIACHI>456 Le Loi, Quan 3, TP.HCM</DIACHI>
+        <SDT>0912345678</SDT>
+        <MALOP>CNTT01A001</MALOP>
+    </SINHVIEN>
+    <SINHVIEN>
+        <MSSV>2021600003</MSSV>
+        <HOTEN>Le Van Cuong</HOTEN>
+        <EMAIL>levancuong@gmail.com</EMAIL>
+        <DIACHI>789 Hai Ba Trung, Quan 10, TP.HCM</DIACHI>
+        <SDT>0923456789</SDT>
+        <MALOP>CNTT02B001</MALOP>
+    </SINHVIEN>
+    <SINHVIEN>
+        <MSSV>2021600004</MSSV>
+        <HOTEN>Pham Thi Dung</HOTEN>
+        <EMAIL>phamthidung@gmail.com</EMAIL>
+        <DIACHI>321 Tran Hung Dao, Quan 5, TP.HCM</DIACHI>
+        <SDT>0834567890</SDT>
+        <MALOP>KT01A00001</MALOP>
+    </SINHVIEN>
+
+</DSSV>

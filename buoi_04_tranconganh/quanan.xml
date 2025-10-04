@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QUANAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="quanan.xsd">
+
+    <!-- BÀN -->
+    <BAN>
+        <TenBan>B01</TenBan>
+        <SoBan>1</SoBan>
+    </BAN>
+    <BAN>
+        <TenBan>B02</TenBan>
+        <SoBan>2</SoBan>
+    </BAN>
+    <BAN>
+        <TenBan>B03</TenBan>
+        <SoBan>3</SoBan>
+    </BAN>
+    <BAN>
+        <TenBan>B04</TenBan>
+        <SoBan>4</SoBan>
+    </BAN>
+    <BAN>
+        <TenBan>B05</TenBan>
+        <SoBan>5</SoBan>
+    </BAN>
+
+    <!-- MÓN -->
+    <MON>
+        <MaMon>M01</MaMon>
+        <TenMon>Com tam</TenMon>
+        <Gia>30000</Gia>
+        <HinhAnh>comtam.jpg</HinhAnh>
+    </MON>
+    <MON>
+        <MaMon>M02</MaMon>
+        <TenMon>Mi Quang</TenMon>
+        <Gia>40000</Gia>
+        <HinhAnh>miquang.jpg</HinhAnh>
+    </MON>
+    <MON>
+        <MaMon>M03</MaMon>
+        <TenMon>Bun Bo Hue</TenMon>
+        <Gia>45000</Gia>
+        <HinhAnh>bunbo.jpg</HinhAnh>
+    </MON>
+    <MON>
+        <MaMon>M04</MaMon>
+        <TenMon>Hu Tieu</TenMon>
+        <Gia>35000</Gia>
+        <HinhAnh>hutin.jpg</HinhAnh>
+    </MON>
+    <MON>
+        <MaMon>M05</MaMon>
+        <TenMon>Ca Kho</TenMon>
+        <Gia>50000</Gia>
+        <HinhAnh>cakho.jpg</HinhAnh>
+    </MON>
+
+    <!-- NHÂN VIÊN -->
+    <NHANVIEN>
+        <MaNV>NV01</MaNV>
+        <TenNV>Nguyen Van A</TenNV>
+        <SoDT>0123456789</SoDT>
+        <DiaChi>Can Tho</DiaChi>
+        <GioiTinh>Nam</GioiTinh>
+        <UserName>nguyenvana</UserName>
+        <Password>password1234</Password>
+    </NHANVIEN>
+    <NHANVIEN>
+        <MaNV>NV02</MaNV>
+        <TenNV>Tran Thi B</TenNV>
+        <SoDT>0987654321</SoDT>
+        <DiaChi>Ha Noi</DiaChi>
+        <GioiTinh>Nu</GioiTinh>
+        <UserName>tranthib</UserName>
+        <Password>securepass01</Password>
+    </NHANVIEN>
+    <NHANVIEN>
+        <MaNV>NV03</MaNV>
+        <TenNV>Le Van C</TenNV>
+        <SoDT>0912345678</SoDT>
+        <DiaChi>Da Nang</DiaChi>
+        <GioiTinh>Nam</GioiTinh>
+        <UserName>levanc</UserName>
+        <Password>mypassword22</Password>
+    </NHANVIEN>
+    <NHANVIEN>
+        <MaNV>NV04</MaNV>
+        <TenNV>Pham Thi D</TenNV>
+        <SoDT>0934567890</SoDT>
+        <DiaChi>Hue</DiaChi>
+        <GioiTinh>Nu</GioiTinh>
+        <UserName>phamthid</UserName>
+        <Password>longsecurepass</Password>
+    </NHANVIEN>
+    <NHANVIEN>
+        <MaNV>NV05</MaNV>
+        <TenNV>Vo Van E</TenNV>
+        <SoDT>0976543210</SoDT>
+        <DiaChi>HCM</DiaChi>
+        <GioiTinh>Nam</GioiTinh>
+        <UserName>vovane</UserName>
+        <Password>vovanepassword</Password>
+    </NHANVIEN>
+
+    <!-- HÓA ĐƠN -->
+    <HOADON>
+        <SoHD>HD01</SoHD>
+        <NgayLap>2025-03-01</NgayLap>
+        <TongTien>75000</TongTien>
+        <MaNV>NV01</MaNV>
+        <TenBan>B01</TenBan>
+    </HOADON>
+    <HOADON>
+        <SoHD>HD02</SoHD>
+        <NgayLap>2025-03-02</NgayLap>
+        <TongTien>40000</TongTien>
+        <MaNV>NV02</MaNV>
+        <TenBan>B02</TenBan>
+    </HOADON>
+    <HOADON>
+        <SoHD>HD03</SoHD>
+        <NgayLap>2025-03-02</NgayLap>
+        <TongTien>50000</TongTien>
+        <MaNV>NV03</MaNV>
+        <TenBan>B03</TenBan>
+    </HOADON>
+    <HOADON>
+        <SoHD>HD04</SoHD>
+        <NgayLap>2025-03-03</NgayLap>
+        <TongTien>60000</TongTien>
+        <MaNV>NV04</MaNV>
+        <TenBan>B04</TenBan>
+    </HOADON>
+    <HOADON>
+        <SoHD>HD05</SoHD>
+        <NgayLap>2025-03-04</NgayLap>
+        <TongTien>30000</TongTien>
+        <MaNV>NV05</MaNV>
+        <TenBan>B05</TenBan>
+    </HOADON>
+
+</QUANAN>
