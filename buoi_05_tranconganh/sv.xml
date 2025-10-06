@@ -20,13 +20,13 @@
 
     <student>
         <id>SV04</id>
-        <name>Phạm Minh Hoàng</name>
-        <date>1999-06-10</date>
+        <name>Tín Meo Meo</name>
+        <date>2004-01-15</date>
     </student>
     <student>
         <id>SV05</id>
-        <name>Trần Lan Anh</name>
-        <date>2000-03-15</date>
+        <name>Trần Công Anh</name>
+        <date>2004-06-01</date>
     </student>
 
     <enrollment>
