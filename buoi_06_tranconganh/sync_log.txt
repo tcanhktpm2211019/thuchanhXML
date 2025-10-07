@@ -1,0 +1,32 @@
+[2025-10-07 14:35:31] XML hợp lệ với XSD.
+[2025-10-07 14:35:31] Đã kết nối MySQL thành công.
+[2025-10-07 14:35:31] Đã đồng bộ bảng categories.
+[2025-10-07 14:36:12] XML hợp lệ với XSD.
+[2025-10-07 14:36:12] Đã kết nối MySQL thành công.
+[2025-10-07 14:36:12] Đã đồng bộ bảng categories.
+[2025-10-07 14:38:52] XML hợp lệ với XSD.
+[2025-10-07 14:38:52] Đã kết nối MySQL thành công.
+[2025-10-07 14:38:52] Đã đồng bộ bảng categories.
+[2025-10-07 14:38:52] Đồng bộ hoàn tất.
+
+[2025-10-07 14:39:05] XML hợp lệ với XSD.
+[2025-10-07 14:39:06] Đã kết nối MySQL thành công.
+[2025-10-07 14:39:06] Đã đồng bộ bảng categories.
+[2025-10-07 14:39:06] Đã cập nhật sản phẩm p003: Giá: 99.00 → 100.0
+[2025-10-07 14:39:06] Đồng bộ hoàn tất.
+
+[2025-10-07 14:46:12] XML hợp lệ với XSD.
+[2025-10-07 14:46:12] Đã kết nối MySQL thành công.
+[2025-10-07 14:46:12] Đã đồng bộ bảng categories.
+[2025-10-07 14:46:12] Đã cập nhật sản phẩm p004: Tên: 'tiểu Bạch' → 'nô lệ da đen', Danh mục: c3 → c4
+[2025-10-07 14:46:12] Đồng bộ hoàn tất.
+
+[2025-10-07 14:48:22] XML hợp lệ với XSD.
+[2025-10-07 14:48:22] Đã kết nối MySQL thành công.
+[2025-10-07 14:48:22] Đã đồng bộ bảng categories.
+[2025-10-07 14:48:22] Đồng bộ hoàn tất.
+
+[2025-10-07 14:50:23] Cập nhật danh mục: c1 - Electronics
+[2025-10-07 14:50:23] Cập nhật danh mục: c2 - Smartphone
+[2025-10-07 14:50:23] Cập nhật danh mục: c3 - Accessories
+[2025-10-07 14:50:23] Đã xóa sản phẩm không còn trong XML: p004
